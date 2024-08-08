@@ -5,7 +5,7 @@
     -   zsh configuration: [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh/ "https://github.com/ohmyzsh/ohmyzsh/") + [powerlevel10k](https://github.com/romkatv/powerlevel10k "https://github.com/romkatv/powerlevel10k") prompt + plugins ([zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions "https://github.com/zsh-users/zsh-autosuggestions"), [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting "https://github.com/zsh-users/zsh-syntax-highlighting"), [fzf-zsh-plugin](https://github.com/unixorn/fzf-zsh-plugin "https://github.com/unixorn/fzf-zsh-plugin"))
     -   Newer but less common ones are e.g. nushell, fish, [xonsh](https://github.com/xonsh/xonsh "https://github.com/xonsh/xonsh"). IMHO xonsh looks interesting as it allows both Python and shell commands
 
- **Modern shell commands
+ ## Modern shell commands
 
 -   Often have nice formatting & colored highlighting
 -   Often written in Rust -> fast
