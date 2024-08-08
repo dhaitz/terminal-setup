@@ -6,10 +6,7 @@
     -   Newer but less common ones are e.g. nushell, fish, [xonsh](https://github.com/xonsh/xonsh "https://github.com/xonsh/xonsh"). IMHO xonsh looks interesting as it allows both Python and shell commands
 
  ## Modern shell commands
-
--   Often have nice formatting & colored highlighting
--   Often written in Rust -> fast
--   Some are git compatible (consider .gitignore)
+Modern alternatives to classic tools. Often have nice formatting & colored highlighting, often written in Rust -> fast, some are git compatible (consider .gitignore).
 
 -   File System
     -   [eza](https://github.com/eza-community/eza "https://github.com/eza-community/eza")/[lsd](https://github.com/lsd-rs/lsd "https://github.com/lsd-rs/lsd") (ls)
