@@ -1,6 +1,6 @@
 # terminal-setup
 -   Mac Terminal: [iterm2](https://iterm2.com/ "https://iterm2.com/") + [catppucin](https://github.com/catppuccin/iterm "https://github.com/catppuccin/iterm") color theme
-    -   Also useful for Mac: [Rectangle](https://rectangleapp.com/ "https://rectangleapp.com/") for window management & [Alt-Tab](https://alt-tab-macos.netlify.app/ "https://alt-tab-macos.netlify.app/") for switching windows
+    -   Also useful for Mac: [Rectangle](https://rectangleapp.com/ "https://rectangleapp.com/") for window management, [Alt-Tab](https://alt-tab-macos.netlify.app/ "https://alt-tab-macos.netlify.app/") for switching windows & [Maccy](https://github.com/p0deje/Maccy) for clipboard history
 -   Shell: zsh
     -   zsh configuration: [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh/ "https://github.com/ohmyzsh/ohmyzsh/") + [powerlevel10k](https://github.com/romkatv/powerlevel10k "https://github.com/romkatv/powerlevel10k") prompt + plugins ([zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions "https://github.com/zsh-users/zsh-autosuggestions"), [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting "https://github.com/zsh-users/zsh-syntax-highlighting"), [fzf-zsh-plugin](https://github.com/unixorn/fzf-zsh-plugin "https://github.com/unixorn/fzf-zsh-plugin"))
     -   Newer but less common ones are e.g. nushell, fish, [xonsh](https://github.com/xonsh/xonsh "https://github.com/xonsh/xonsh"). IMHO xonsh looks interesting as it allows both Python and shell commands
@@ -25,4 +25,5 @@ Modern alternatives to classic tools. Often have nice formatting & colored highl
 -   Other
     -   [fzf](https://github.com/junegunn/fzf "https://github.com/junegunn/fzf") - fuzzy finder, useful to search in piped input, shell history, file contents, ...
     -   [fuck](https://github.com/nvbn/thefuck "https://github.com/nvbn/thefuck") - corrects typo in previous command
-    -   [lazygit](https://github.com/jesseduffield/lazygit "https://github.com/jesseduffield/lazygit") - TUI for git
+
+See also ~[modern-unix](https://github.com/ibraheemdev/modern-unix)~ [maintained-modern-unix](https://github.com/johnalanwoods/maintained-modern-unix). 
