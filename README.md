@@ -1,5 +1,5 @@
 # terminal-setup
--   Mac Terminal: [iterm2](https://iterm2.com/ "https://iterm2.com/") + [catppucin](https://github.com/catppuccin/iterm "https://github.com/catppuccin/iterm") color theme
+-   Mac Terminal: [iterm2](https://iterm2.com/ "https://iterm2.com/") with [catppucin](https://github.com/catppuccin/iterm "https://github.com/catppuccin/iterm") Macchiato color theme and the _MesloLGS NF_ font from powerlevel10k
     -   Also useful for Mac: [Rectangle](https://rectangleapp.com/ "https://rectangleapp.com/") for window management, [Alt-Tab](https://alt-tab-macos.netlify.app/ "https://alt-tab-macos.netlify.app/") for switching windows & [Maccy](https://github.com/p0deje/Maccy) for clipboard history
 -   Shell: zsh
     -   zsh configuration: [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh/ "https://github.com/ohmyzsh/ohmyzsh/") + [powerlevel10k](https://github.com/romkatv/powerlevel10k "https://github.com/romkatv/powerlevel10k") prompt + plugins ([zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions "https://github.com/zsh-users/zsh-autosuggestions"), [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting "https://github.com/zsh-users/zsh-syntax-highlighting"), [fzf-zsh-plugin](https://github.com/unixorn/fzf-zsh-plugin "https://github.com/unixorn/fzf-zsh-plugin"))
